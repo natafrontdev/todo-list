@@ -7,9 +7,3 @@
 Кроме того, приложение поддерживает поиск.
 
 Посмотреть демо можно здесь: https://nataliababenko.github.io/
-
-## Используемые технологии
-
-```bash
-create-react-app, react, bootstrap
-```
